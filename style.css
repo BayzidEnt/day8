@@ -1,0 +1,53 @@
+.mandiv{
+    width: 950px;
+    height: 850px;
+    margin: auto; 
+    background-color: #dddd;
+}
+img{
+    width: 950px;
+}
+.head-section {}
+.head-section h1{
+    text-align: center;
+    color: #0800ff;
+    font-size: 50px;
+  }
+
+.head-section h2{
+    text-align: center;
+    font-size: 35px;
+    background:#eec16e;
+    color: white;
+    text-transform: uppercase;
+    word-spacing: 10px;
+  
+}
+.body{}
+.body h1{ 
+    color: #203086;
+text-decoration: underline;
+font-size: 24px;
+letter-spacing: 3px;
+}
+.body p{
+    text-align: justify;
+    font-size: 19px;
+    list-style: 28px;
+    letter-spacing: 1px;
+}
+.footer-section{
+    text-align: right;
+    margin-right: 28px;
+}
+.footer-section h2{
+    text-align: right;
+}
+.footer-section p{
+    font-size: 25px;
+    text-transform: capitalize;
+    color: rgb(238, 193, 110);
+    text-decoration: overline;
+    margin-right: 17px;
+    text-align: right;
+    }
